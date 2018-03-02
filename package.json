@@ -1,0 +1,18 @@
+{
+  "name": "web-camera",
+  "version": "1.0.0",
+  "description": "Camera app with web apis",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muzafar Umarov",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.14.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "live-server": "^1.2.0"
+  }
+}
